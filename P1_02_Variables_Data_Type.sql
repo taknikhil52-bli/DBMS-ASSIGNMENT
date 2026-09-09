@@ -1,6 +1,6 @@
 -- P1.2  Variables and Data Types
--- Roll No - 06
--- Name - Jaysiddh bhojak
+-- Roll No - 50
+-- Name - Tak Nikhil
 
 SET SERVEROUTPUT ON;
 DECLARE 
