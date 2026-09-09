@@ -1,6 +1,6 @@
 -- P1.3  Constants, NULL and NVL
--- Roll No - 06
--- Name - Jaysiddh Bhojak 
+-- Roll No - 50
+-- Name - Tak Nikhil
 
 SET SERVEROUTPUT ON;
 DECLARE 
